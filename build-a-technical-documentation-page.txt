@@ -1,0 +1,68 @@
+** start of undefined **
+
+<!DOCTYPE HTML>
+<html>
+  <head><title id="title">Nelson Mandela</title>
+  <link href="styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <main id="main-doc">
+      <section class="main-section" id="Introduction">
+        <header>Introduction</header>
+          <p>The study of life, living things, and evolution is Biology. </p>
+          <p>Biology is a life science that is derived from the Greek word 'bios' meaning life and 'logy' means ...</p>
+           <ul><li></li></ul>
+          <code></code>
+      </section>
+      <section class="main-section" id="Cell_Biology">
+  <header>Cell Biology</header>
+  <p>Cell biology is a branch of biology that studies the structure, function, and behavior of cells. All living organisms are made of cells. A cell is the basic unit of life that is responsible for the living and functioning of organisms. Cell biology is the study of the structural and functional units of cells.</p>
+  <p></p>
+   <ul><li></li></ul>
+  <code></code>
+      </section>
+      <section class="main-section" id="Evolution">
+       <header> Evolution</header>
+       <p>Evolution is the change in the heritable characteristics of biological populations over successive generations.</p>
+       <p></p>
+        <ul><li></li></ul>
+       <code></code>
+      </ section>
+      <section class="main-section" id="Genetics">
+      <header>Genetics</header>
+      <p>Genetics is the study of genes, genetic variation, and heredity in organisms. It is an important branch in biology because heredity is vital to organisms' evolution. Gregor Mendel, a Moravian Augustinian friar working in the 19th century in Brno, was the first to study genetics scientifically.</p>
+      <p></p>
+       <ul><li></li></ul>
+      <code></code>
+      </section>
+      <section class="main-section" id="Bio_Physics">
+      <header>Bio Physics</header>
+      <p>Biophysics is an interdisciplinary science that applies approaches and methods traditionally used in physics to study biological phenomena. Biophysics covers all scales of biological organization, from molecular to organismic and populations.</p>
+      <p></p>
+      <ul><li></li></ul>
+      <code></code>
+      </section>
+      <nav id="navbar">
+        <header>Navigation</header>
+        <a class="nav-link" href="#Introduction">Introduction</a>
+        <a class="nav-link" href="#Cell_Biology">Cell Biology</a>
+        <a class="nav-link" href="#Evolution">Evolution</a>
+        <a class="nav-link" href="#Genetics">Genetics</a>
+        <a class="nav-link" href="#Bio_Physics">Bio Physics</a>
+        </nav>
+    </main>
+  </body>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+** end of undefined **
+
